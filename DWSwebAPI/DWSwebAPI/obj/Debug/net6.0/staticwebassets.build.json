@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R9WZ8DaLf3S4UnU0BlSctU3BufNzeE1+jcGWFmV6Tgw=",
+  "Source": "DWSwebAPI",
+  "BasePath": "_content/DWSwebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

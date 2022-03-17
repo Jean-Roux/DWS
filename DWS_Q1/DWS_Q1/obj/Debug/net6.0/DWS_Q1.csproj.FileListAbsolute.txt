@@ -1,0 +1,17 @@
+C:\Users\JR\source\repos\DWS_Q1\DWS_Q1\bin\Debug\net6.0\DWS_Q1.exe
+C:\Users\JR\source\repos\DWS_Q1\DWS_Q1\bin\Debug\net6.0\DWS_Q1.deps.json
+C:\Users\JR\source\repos\DWS_Q1\DWS_Q1\bin\Debug\net6.0\DWS_Q1.runtimeconfig.json
+C:\Users\JR\source\repos\DWS_Q1\DWS_Q1\bin\Debug\net6.0\DWS_Q1.dll
+C:\Users\JR\source\repos\DWS_Q1\DWS_Q1\bin\Debug\net6.0\DWS_Q1.pdb
+C:\Users\JR\source\repos\DWS_Q1\DWS_Q1\obj\Debug\net6.0\DWS_Q1.csproj.AssemblyReference.cache
+C:\Users\JR\source\repos\DWS_Q1\DWS_Q1\obj\Debug\net6.0\DWS_Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JR\source\repos\DWS_Q1\DWS_Q1\obj\Debug\net6.0\DWS_Q1.AssemblyInfoInputs.cache
+C:\Users\JR\source\repos\DWS_Q1\DWS_Q1\obj\Debug\net6.0\DWS_Q1.AssemblyInfo.cs
+C:\Users\JR\source\repos\DWS_Q1\DWS_Q1\obj\Debug\net6.0\DWS_Q1.csproj.CoreCompileInputs.cache
+C:\Users\JR\source\repos\DWS_Q1\DWS_Q1\obj\Debug\net6.0\DWS_Q1.dll
+C:\Users\JR\source\repos\DWS_Q1\DWS_Q1\obj\Debug\net6.0\refint\DWS_Q1.dll
+C:\Users\JR\source\repos\DWS_Q1\DWS_Q1\obj\Debug\net6.0\DWS_Q1.pdb
+C:\Users\JR\source\repos\DWS_Q1\DWS_Q1\obj\Debug\net6.0\DWS_Q1.genruntimeconfig.cache
+C:\Users\JR\source\repos\DWS_Q1\DWS_Q1\obj\Debug\net6.0\ref\DWS_Q1.dll
+C:\Users\JR\source\repos\DWS_Q1\DWS_Q1\bin\Debug\net6.0\inFile.txt
+C:\Users\JR\source\repos\DWS_Q1\DWS_Q1\bin\Debug\net6.0\outFile.txt

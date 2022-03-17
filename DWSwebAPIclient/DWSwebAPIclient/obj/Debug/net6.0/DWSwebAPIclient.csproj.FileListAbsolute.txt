@@ -1,0 +1,15 @@
+C:\Users\JR\source\repos\DWSwebAPIclient\DWSwebAPIclient\obj\Debug\net6.0\DWSwebAPIclient.csproj.AssemblyReference.cache
+C:\Users\JR\source\repos\DWSwebAPIclient\DWSwebAPIclient\obj\Debug\net6.0\DWSwebAPIclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JR\source\repos\DWSwebAPIclient\DWSwebAPIclient\obj\Debug\net6.0\DWSwebAPIclient.AssemblyInfoInputs.cache
+C:\Users\JR\source\repos\DWSwebAPIclient\DWSwebAPIclient\obj\Debug\net6.0\DWSwebAPIclient.AssemblyInfo.cs
+C:\Users\JR\source\repos\DWSwebAPIclient\DWSwebAPIclient\obj\Debug\net6.0\DWSwebAPIclient.csproj.CoreCompileInputs.cache
+C:\Users\JR\source\repos\DWSwebAPIclient\DWSwebAPIclient\bin\Debug\net6.0\DWSwebAPIclient.exe
+C:\Users\JR\source\repos\DWSwebAPIclient\DWSwebAPIclient\bin\Debug\net6.0\DWSwebAPIclient.deps.json
+C:\Users\JR\source\repos\DWSwebAPIclient\DWSwebAPIclient\bin\Debug\net6.0\DWSwebAPIclient.runtimeconfig.json
+C:\Users\JR\source\repos\DWSwebAPIclient\DWSwebAPIclient\bin\Debug\net6.0\DWSwebAPIclient.dll
+C:\Users\JR\source\repos\DWSwebAPIclient\DWSwebAPIclient\bin\Debug\net6.0\DWSwebAPIclient.pdb
+C:\Users\JR\source\repos\DWSwebAPIclient\DWSwebAPIclient\obj\Debug\net6.0\DWSwebAPIclient.dll
+C:\Users\JR\source\repos\DWSwebAPIclient\DWSwebAPIclient\obj\Debug\net6.0\refint\DWSwebAPIclient.dll
+C:\Users\JR\source\repos\DWSwebAPIclient\DWSwebAPIclient\obj\Debug\net6.0\DWSwebAPIclient.pdb
+C:\Users\JR\source\repos\DWSwebAPIclient\DWSwebAPIclient\obj\Debug\net6.0\DWSwebAPIclient.genruntimeconfig.cache
+C:\Users\JR\source\repos\DWSwebAPIclient\DWSwebAPIclient\obj\Debug\net6.0\ref\DWSwebAPIclient.dll
