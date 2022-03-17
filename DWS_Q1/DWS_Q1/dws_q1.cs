@@ -13,7 +13,7 @@ namespace DWSQ1NS
         private string[] g_sFileContentsIn;
         private string[] g_sFileContentsOut;
         //Class Contructor that recieves the input/output files and stores them in memory
-        public fileProcesser(String inFile, String outFile)
+        public fileProcesser(string inFile, string outFile)
         {
 
             g_sFileIn = inFile;
@@ -111,7 +111,7 @@ namespace DWSQ1NS
             g_sFileContentsIn.CopyTo(g_sFileContentsOut, 0);
             //Sort the contents of OUT file alphabetically
             Array.Sort(g_sFileContentsOut);
-            if (g_sFileContentsOut.Length > 0)
+            if (g_sFileContentsOut.Length <= 0)
             {
                 throw new Exception("out file is empty");
             }
